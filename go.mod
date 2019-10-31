@@ -1,4 +1,4 @@
-module github.com/alecthomos/kingpin.v3-unstable
+module github.com/greyg00s/kingpin.v3-unstable
 
 go 1.13
 
